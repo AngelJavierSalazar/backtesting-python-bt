@@ -1,5 +1,5 @@
 <img width="916" alt="ipad-trends" src="https://user-images.githubusercontent.com/32485574/180362589-62f4812a-a5d3-4c21-8638-19c4c3d87997.png">
-<br/>
+
 # backtesting-python-bt <br/><br/>
 
 The'bt' python library is used as a backtesting framework to test quantitative trading strategies. <br/>
